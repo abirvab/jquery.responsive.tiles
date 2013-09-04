@@ -3,32 +3,26 @@
     "title": "Responsive Tiles",
     "description": "jQuery plugin for generating responsive tiles.",
     "keywords": [
+        "jquery",
+        "plugin",
         "tiles",
-        "responsive"
-    ],
-    "version": "1.0",
-    "author": {
-        "name": "Abirvab"
-        
-    },
-    "maintainers": [
-        {
-            "name": "Abirvab",
-            "email": "abirvab@gmail.com"
-            
-        }
-    ],
-    "licenses": [
-        {
-            "type": "GNU",
-            "url": "https://github.com/abirvab/jquery.responsive.tiles/blob/master/LICENSE"
-        }
-    ],
-    "bugs": "https://github.com/abirvab/jquery.responsive.tiles/issues",
-    "homepage": "https://github.com/abirvab/jquery.responsive.tiles",
-    "docs": "https://github.com/abirvab/jquery.responsive.tiles",
-    "download": "https://raw.github.com/abirvab/jquery.responsive.tiles/master/Jquery.responsive.tiles.js",
-    "dependencies": {
-        "jquery": ">=1.5"
-    }
+	"responsive" ],
+  "version": "1.0",
+  "main": "jquery.responsive.tiles.js",
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/abirvab/jquery.responsive.tiles.git"
+  },
+  "author": {
+          "name": "Abirvab",
+          "url": "https: //github.com/abirvab/jquery.responsive.tiles"
+      },
+  "homepage": "https: //github.com/abirvab/jquery.responsive.tiles",
+  "licenses": [{"type": "GPL", "url": "http: //www.gnu.org/licenses/gpl-3.0.txt"}],
+  "docs": "https: //github.com/abirvab/jquery.responsive.tiles/blob/master/README.md",
+  "demo": "https: //github.com/abirvab/jquery.responsive.tiles/blob/master/README.md",
+  "files": ["jquery.responsive.tiles.js"]
 }
