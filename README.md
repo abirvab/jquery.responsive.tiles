@@ -5,8 +5,8 @@ a plugin to create tiled set of objects
 
 
 
-usage : 
-
+Usage
+-----
 
 $("#container").tiles({
 	selector: ".item", 
