@@ -32,6 +32,6 @@
         
         return this;
 
-    };
+    }; 
 
 } (jQuery));
