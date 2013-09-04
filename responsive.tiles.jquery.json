@@ -1,0 +1,34 @@
+{
+    "name": "responsive.tiles",
+    "title": "Responsive Tiles",
+    "description": "jQuery plugin for generating responsive tiles.",
+    "keywords": [
+        "tiles",
+        "responsive"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Abirvab"
+        
+    },
+    "maintainers": [
+        {
+            "name": "Abirvab",
+            "email": "abirvab@gmail.com"
+            
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GNU",
+            "url": "https://github.com/abirvab/jquery.responsive.tiles/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/abirvab/jquery.responsive.tiles/issues",
+    "homepage": "https://github.com/abirvab/jquery.responsive.tiles",
+    "docs": "https://github.com/abirvab/jquery.responsive.tiles",
+    "download": "http://code.jquery.com/#responsive.tiles",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
